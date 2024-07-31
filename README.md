@@ -42,3 +42,23 @@ Add any additional information about the problem, different solutions that can b
 You can include useful resources or links related to the problem. This could be references to data structures, algorithms, or other LeetCode discussions that may be helpful for further understanding.
 
 By following this structure, you can provide a comprehensive view of the problem, your solution, and any related resources to help others better understand and solve the same problem. Feel free to tailor this template to your specific style and the requirements of the problem.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/manjaycoder/leetcode-solution/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/manjaycoder/leetcode-solution/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/manjaycoder/leetcode-solution/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/manjaycoder/leetcode-solution/tree/master/1013-fibonacci-number) |
+<!---LeetCode Topics End-->
