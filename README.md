@@ -1,14 +1,14 @@
 Sure! Here's an example of how you can create a well-structured README content for a LeetCode problem in a GitHub repository:
 
-**LeetCode Problem Name**:
+# LeetCode Problem Name:
 Brief description of the problem and its requirements. It's good to give a high-level overview to provide context to anyone visiting the repository.
-**Problem Description**
+# Problem Description:
 Include a more detailed explanation of the problem. You can quote the original problem description given on the LeetCode website, including any constraints or special requirements.
 
-**Example**
+# Example
 Provide an example input and the corresponding output to help others understand the problem better.
 
-**Input**:
+# Input:
  Provide an example input
 
 3Output:
