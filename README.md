@@ -9,13 +9,13 @@ Include a more detailed explanation of the problem. You can quote the original p
 Provide an example input and the corresponding output to help others understand the problem better.
 
 **Input**:
-// Provide an example input
+ Provide an example input
 
 3Output:
 
 # text
 
-// Provide the corresponding output
+Provide the corresponding output
 # Approach
 Explain the approach or algorithm used to solve the problem. Consider discussing the time and space complexity of your solution.
 
