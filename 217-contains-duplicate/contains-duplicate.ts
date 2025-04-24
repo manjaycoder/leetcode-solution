@@ -1,11 +1,13 @@
 function containsDuplicate(nums: number[]): boolean {
-    let set=new Set()
+    nums.sort()
+    let num1=[]
     for(let i=0;i<nums.length;i++){
-        set.add(nums[i])
-    }
-    if(set.size !== nums.length){
+       if(nums[i]==nums[i-1]){
         return true
-    }else{
-        return false
+       }else{
+        continue
+       }
     }
+    return false
+
 };
