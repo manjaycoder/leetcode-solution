@@ -10,7 +10,7 @@ var majorityElement = function(nums) {
             res=n;
             
         }
-        majority += n===res?1:-1;
+        majority += (n===res)?1:-1;
     }
     return res
 };
