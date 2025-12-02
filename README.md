@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manjaycoder/leetcode-solution/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/manjaycoder/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/manjaycoder/leetcode-solution/tree/master/0238-product-of-array-except-self) |
@@ -24,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/manjaycoder/leetcode-solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/manjaycoder/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/manjaycoder/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
