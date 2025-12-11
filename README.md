@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/manjaycoder/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/manjaycoder/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -42,12 +43,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/manjaycoder/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/manjaycoder/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/manjaycoder/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/manjaycoder/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/manjaycoder/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
