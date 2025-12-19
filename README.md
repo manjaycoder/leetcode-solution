@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/manjaycoder/leetcode-solution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/manjaycoder/leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/manjaycoder/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manjaycoder/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
@@ -27,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/manjaycoder/leetcode-solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/manjaycoder/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/manjaycoder/leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/manjaycoder/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
@@ -88,4 +90,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/manjaycoder/leetcode-solution/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/manjaycoder/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
