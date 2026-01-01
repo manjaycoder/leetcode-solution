@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/manjaycoder/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -62,10 +64,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -78,10 +82,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/manjaycoder/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,4 +100,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/manjaycoder/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
