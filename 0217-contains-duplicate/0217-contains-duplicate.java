@@ -7,9 +7,7 @@ class Solution {
                 return true;
             }
             map.put(num,i);
-
         }
         return false;
    }
-
 }
