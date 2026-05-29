@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0049-group-anagrams](https://github.com/manjaycoder/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/manjaycoder/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manjaycoder/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/manjaycoder/leetcode-solution/tree/master/0238-product-of-array-except-self) |
@@ -42,6 +43,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manjaycoder/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
@@ -57,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0013-roman-to-integer](https://github.com/manjaycoder/leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/manjaycoder/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/manjaycoder/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/manjaycoder/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -108,4 +111,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
