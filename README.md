@@ -23,6 +23,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/manjaycoder/leetcode-solution/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
@@ -36,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manjaycoder/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/manjaycoder/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/manjaycoder/leetcode-solution/tree/master/0567-permutation-in-string) |
@@ -46,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0179-largest-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/manjaycoder/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
@@ -94,6 +97,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/manjaycoder/leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/manjaycoder/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -125,4 +129,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
