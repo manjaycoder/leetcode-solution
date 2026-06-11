@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manjaycoder/leetcode-solution/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manjaycoder/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/manjaycoder/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/manjaycoder/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/manjaycoder/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
@@ -110,6 +111,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manjaycoder/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/manjaycoder/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/manjaycoder/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Matrix
