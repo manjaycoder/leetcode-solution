@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0041-first-missing-positive](https://github.com/manjaycoder/leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/manjaycoder/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/manjaycoder/leetcode-solution/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/manjaycoder/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manjaycoder/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/manjaycoder/leetcode-solution/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/manjaycoder/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/manjaycoder/leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manjaycoder/leetcode-solution/tree/master/0242-valid-anagram) |
@@ -108,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/manjaycoder/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/manjaycoder/leetcode-solution/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
