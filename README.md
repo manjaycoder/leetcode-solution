@@ -144,4 +144,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/manjaycoder/leetcode-solution/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/manjaycoder/leetcode-solution/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
